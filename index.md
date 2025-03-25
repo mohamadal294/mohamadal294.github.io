@@ -3,6 +3,7 @@ layout: home
 title: Portofolio Saya
 ---
 [Home](/) | [Proyek](projects) | [Kontak](contact)
+![Foto Profil](profile.jpg)
 
 # Selamat Datang di Portofolio Saya
 Halo, saya Mohamad, seorang IT Helpdesk dengan pengalaman dalam troubleshooting dan dukungan teknis. Saya bersemangat membantu pengguna menyelesaikan masalah teknologi dengan cepat dan efisien.
