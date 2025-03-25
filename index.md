@@ -2,7 +2,7 @@
 layout: default
 title: Portofolio Saya
 ---
-[Home](/) | [Proyek](projects) | [Kontak](contact)
+[Home](/) | [Proyek](projects) |
 ![Foto Profil](profile.jpg)
 
 # Selamat Datang di Portofolio Saya
