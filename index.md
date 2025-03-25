@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Portofolio Saya
 ---
 [Home](/) | [Proyek](projects) | [Kontak](contact)
