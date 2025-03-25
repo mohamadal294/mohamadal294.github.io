@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Portofolio IT Helpdesk Saya
 description: Selamat datang di portofolio saya sebagai IT Helpdesk
+plugins:
+  - jekyll-remote-theme
