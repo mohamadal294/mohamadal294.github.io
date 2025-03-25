@@ -1,4 +1,4 @@
-theme: jekyll-theme-hacker
+remote_theme: pages-themes/hacker@v0.2.0
 title: Portofolio IT Helpdesk Saya
 description: Selamat datang di portofolio saya sebagai IT Helpdesk
 plugins:
