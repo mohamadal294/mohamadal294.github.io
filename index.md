@@ -2,7 +2,7 @@
 layout: default
 title: Portofolio Saya
 ---
-[Home](/) | [Proyek](projects) |
+[Home]() | [Proyek](projects) |
 ![Foto Profil](profile.jpg)
 
 # Selamat Datang di Portofolio Saya
@@ -18,5 +18,5 @@ Saya memiliki pengalaman 2 tahun sebagai IT Helpdesk, dengan fokus pada dukungan
 - Komunikasi teknis yang jelas dan efektif
 
 ## Kontak
-- Email: [email@example.com](mailto:mohamadaldjawad294@gmail.com)
-- LinkedIn: [linkedin.com/in/mohamad](https://linkedin.com/in/mohamadaldjawad)
+- Email: [mohamadaldjawad294@gmail.com](mailto:mohamadaldjawad294@gmail.com)
+- LinkedIn: [linkedin.com/in/mohamadaldjawad](https://linkedin.com/in/mohamadaldjawad)
